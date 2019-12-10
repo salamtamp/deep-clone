@@ -1,5 +1,5 @@
 {
-  "name": "deep-clone",
+  "name": "simple-deep-clone",
   "version": "0.0.1",
   "description": "Simple deep clone JavaScript native types, like Object, Array, and primitives.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/salamtamp/deep-clone.git"
+    "url": "git+https://github.com/salamtamp/simple-deep-clone.git"
   },
   "keywords": [
     "array",
@@ -23,7 +23,7 @@
   "author": "Salamtam (https://github.com/salamtam)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/salamtamp/deep-clone/issues"
+    "url": "https://github.com/salamtamp/simple-deep-clone/issues"
   },
-  "homepage": "https://github.com/salamtamp/deep-clone#readme"
+  "homepage": "https://github.com/salamtamp/simple-deep-clone#readme"
 }
