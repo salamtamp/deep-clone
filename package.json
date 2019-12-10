@@ -1,6 +1,6 @@
 {
   "name": "simple-deep-clone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple deep clone JavaScript native types, like Object, Array, and primitives.",
   "main": "index.js",
   "scripts": {
