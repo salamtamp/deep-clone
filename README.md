@@ -1,4 +1,5 @@
 # deep-clone
+
 [![NPM version](https://img.shields.io/npm/v/simple-deep-clone.svg)](https://www.npmjs.com/package/aws-sdk)
 [![NPM downloads](https://img.shields.io/npm/dm/simple-deep-clone.svg)](https://www.npmjs.com/package/aws-sdk)
 
@@ -15,10 +16,10 @@ $ npm install --save simple-deep-clone
 ## Usage
 
 ```js
-const { deepClone } = require('simple-deep-clone');
+const clone = require('simple-deep-clone');
 
 const profile = { name: 'SaLamTam' };
-const newProfile = deepClone(profile);
+const newProfile = clone(profile);
 
 newProfile.project = 'deep-clone';
 
