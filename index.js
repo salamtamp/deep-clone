@@ -6,4 +6,4 @@ const deepClone = function(obj) {
     : obj;
 };
 
-exports.deepClone = deepClone;
+module.exports = deepClone;
